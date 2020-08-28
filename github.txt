@@ -6,3 +6,4 @@
 4 check commit : git log
 5 commit git hub : git remote add origin +link
 6 push : git push
+7 pull : git pull
