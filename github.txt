@@ -1,0 +1,8 @@
+1 create  : git init 
+2 check status git status
+3 add : git add +name+ ,git add .
+
+3 commit : git commit -m "to do something"
+4 check commit : git log
+5 commit git hub
+6 pull git pull
