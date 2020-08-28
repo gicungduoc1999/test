@@ -4,5 +4,5 @@
 
 3 commit : git commit -m "to do something"
 4 check commit : git log
-5 commit git hub
+5 commit git hub : git remote add origin +link
 6 pull git pull
